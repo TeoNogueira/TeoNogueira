@@ -16,3 +16,4 @@ Here are some ideas to get you started:
  - Showing my frontend collaboration to the world
 
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeoNogueira&layout=compact)](https://github.com/TeoNogueira/github-readme-stats)
