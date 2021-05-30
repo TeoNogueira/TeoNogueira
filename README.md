@@ -15,5 +15,9 @@ Hello my name is Teófilo Nogueira, I develop front-end web applications, I love
 
 [<div align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeoNogueira&layout=compact) </div>](https://github.com/TeoNogueira/github-readme-stats)
 
+#
+
+[<div align="center"> ![image](https://user-images.githubusercontent.com/53917980/120089180-36cafa00-c0ce-11eb-9059-e9c4545daee7.png) </div>](https://github.com/TeoNogueira/github-readme-stats)
+
 
 
