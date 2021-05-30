@@ -17,7 +17,9 @@ Hello my name is Teófilo Nogueira, I develop front-end web applications, I love
 
 #
 
-[<div align="center"> ![image](https://user-images.githubusercontent.com/53917980/120089180-36cafa00-c0ce-11eb-9059-e9c4545daee7.png) </div>](https://github.com/TeoNogueira/github-readme-stats)
+[<div align="center"> ![image](https://user-images.githubusercontent.com/53917980/120089574-37fe2600-c0d2-11eb-93cc-0a67da3aacb6.png) </div>](https://github.com/TeoNogueira/github-readme-stats)
+
+
 
 
 
