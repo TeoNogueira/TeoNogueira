@@ -5,7 +5,7 @@ Hello my name is Teófilo Nogueira, I develop front-end web applications, I love
 #
 - 🌲 I'm fixing my knowledge in: html, css, javascript and ReactJs.
 - 🤗 Highlight: teamwork helps people to grow and makes us reach deeper into our goals.
-- 📚 My focus is on front-end development with languages and librarie ReactJs.
+- 📚 My focus is on front-end development with languages and librarie ReactJs, bootstrap, material-design-iconic.
 <br />
 
 
