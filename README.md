@@ -9,7 +9,7 @@ Hello my name is Teófilo Nogueira, I develop front-end web applications, I love
 <br />
 
 
-[<div align="center">![Instagram-school](https://img.shields.io/badge/-Instagram-057a7b?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/teo_nogueira/) [![Instagram](https://img.shields.io/badge/-beginjscript-057a7b?style=for-the-badge&logo=Instagram&logoColor=77bcef)](https://www.instagram.com/beginjscript/)  [![Linkedin](https://img.shields.io/badge/-linkedin-057a7b?style=for-the-badge&logo=linkedin&logoColor=bffff9)</div>](https://www.linkedin.com/in/teonogueira/)
+[<div align="center">![Instagram](https://img.shields.io/badge/-Instagram-057a7b?style=for-the-badge&logo=school&logoColor=fff)](https://www.instagram.com/teo_nogueira/) [![Instagram](https://img.shields.io/badge/-beginjscript-057a7b?style=for-the-badge&logo=Instagram&logoColor=77bcef)](https://www.instagram.com/beginjscript/)  [![Linkedin](https://img.shields.io/badge/-linkedin-057a7b?style=for-the-badge&logo=linkedin&logoColor=bffff9)</div>](https://www.linkedin.com/in/teonogueira/)
 
 #
 <br /> <br />
