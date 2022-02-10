@@ -8,7 +8,13 @@ Hello my name is Teófilo Nogueira currently studying at EBAC through the front-
 - 📚 My focus is on front-end development with languages and librarie ReactJs, bootstrap, material-design-iconic.
 <br />
 
+<div>
+  <a href="https://github.com/TeoNogueira">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
 
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
 
 [<div align="center">![Instagram](https://img.shields.io/badge/-Instagram-057a7b?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/teo_nogueira/) [![Instagram](https://img.shields.io/badge/-beginjscript-057a7b?style=for-the-badge&logo=Instagram&logoColor=77bcef)](https://www.instagram.com/beginjscript/)  [![Linkedin](https://img.shields.io/badge/-linkedin-057a7b?style=for-the-badge&logo=linkedin&logoColor=bffff9)</div>](https://www.linkedin.com/in/teonogueira/) [<div align="center" target="_blank">![Google Chrome](https://img.shields.io/badge/Current_Course_EBAC-800080?style=for-the-badge&logo=GoogleChrome&logoColor=fff)](https://ebaconline.com.br/front-end-profession/)
 
