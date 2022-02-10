@@ -8,7 +8,7 @@ Hello my name is Teófilo Nogueira currently studying at EBAC through the front-
 - 📚 My focus is on front-end development with languages and librarie ReactJs, bootstrap, material-design-iconic.
 <br />
 
-<div>
+<div align="center">
   <a href="https://github.com/TeoNogueira">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=TeoNogueira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeoNogueira&layout=compact&langs_count=7&theme=react" />
