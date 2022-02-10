@@ -20,7 +20,7 @@ Hello my name is Teófilo Nogueira currently studying at EBAC through the front-
 [<div align="center" target="_blank">![Google Chrome](https://img.shields.io/badge/Website-7c25f8?style=for-the-badge&logo=GoogleChrome&logoColor=fff)](http://teonogueira.42web.io/)
 #
 <br /> <br />
- ![Snake animation](https://github.com/teonogueira/teonogueira/blob/output/github-contribution-grid-snake.svg)
+
   
 [<div align="center"> ![image](https://user-images.githubusercontent.com/53917980/120089574-37fe2600-c0d2-11eb-93cc-0a67da3aacb6.png) </div>](https://github.com/TeoNogueira/github-readme-stats)
 
@@ -29,5 +29,5 @@ Hello my name is Teófilo Nogueira currently studying at EBAC through the front-
 <div align='center'>
  
   <a href="#"><img src="https://views-badge.glitch.me/badge?page_id=TeoNogueira.visitor-badge"/></a>
-</div> 
-
+</div> <br /> <br />
+ ![Snake animation](https://github.com/teonogueira/teonogueira/blob/output/github-contribution-grid-snake.svg)
