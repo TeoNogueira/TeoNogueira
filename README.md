@@ -30,4 +30,6 @@ Hello my name is Teófilo Nogueira currently studying at EBAC through the front-
  
   <a href="#"><img src="https://views-badge.glitch.me/badge?page_id=TeoNogueira.visitor-badge"/></a>
 </div> <br /> <br />
+  <div>
  ![Snake animation](https://github.com/TeoNogueira/TeoNogueira/blob/output/github-contribution-grid-snake.svg)
+  </div>
