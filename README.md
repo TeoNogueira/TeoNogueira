@@ -10,7 +10,7 @@ Hello my name is Teófilo Nogueira currently studying at EBAC through the front-
 
 <div align="center">
   <a href="https://github.com/TeoNogueira">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=teonogueira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=teonogueira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeoNogueira&layout=compact&langs_count=7&theme=react" />
 
 
@@ -29,10 +29,6 @@ Hello my name is Teófilo Nogueira currently studying at EBAC through the front-
 
 
 
-<div align='center'>
- 
-  <a href="#"><img src="https://views-badge.glitch.me/badge?page_id=TeoNogueira.visitor-badge"/></a>
-</div> <br /> <br />
 
 
  
