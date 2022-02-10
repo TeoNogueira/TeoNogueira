@@ -24,15 +24,15 @@ Hello my name is Teófilo Nogueira currently studying at EBAC through the front-
   ![Snake animation](https://github.com/TeoNogueira/TeoNogueira/blob/output/github-contribution-grid-snake.svg) 
   <br />
   #
-   <br />
+
 [ <div align="center"> ![image](https://user-images.githubusercontent.com/53917980/120089574-37fe2600-c0d2-11eb-93cc-0a67da3aacb6.png) </div>(https://github.com/TeoNogueira/github-readme-stats)]
 
 
 
-[<div align='center'>
+<div align='center'>
  
   <a href="#"><img src="https://views-badge.glitch.me/badge?page_id=TeoNogueira.visitor-badge"/></a>
-</div> <br /> <br />]
+</div> <br /> <br />
 
 
  
