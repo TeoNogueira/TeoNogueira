@@ -21,10 +21,12 @@ Hello my name is Teófilo Nogueira currently studying at EBAC through the front-
 #
 <br /> <br />
 
+  ![Snake animation](https://github.com/TeoNogueira/TeoNogueira/blob/output/github-contribution-grid-snake.svg) 
+  
   
 [<div align="center"> ![image](https://user-images.githubusercontent.com/53917980/120089574-37fe2600-c0d2-11eb-93cc-0a67da3aacb6.png) </div>](https://github.com/TeoNogueira/github-readme-stats)
 
-![Snake animation](https://github.com/TeoNogueira/TeoNogueira/blob/output/github-contribution-grid-snake.svg) 
+
 
 <div align='center'>
  
