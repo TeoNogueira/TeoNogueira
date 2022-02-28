@@ -1,11 +1,12 @@
 ## 👨‍💻 About me
 
-Hello my name is Teófilo Nogueira currently studying at EBAC through the front-end engineering course, I develop front-end web applications, I love technology and I have been looking for daily knowledge, I am willing to face any challenges as a developer.
+Olá meu nome é Teófilo Nogueira atualmente estou cursando na EBAC (Escola Britânica de Artes Criativas e Tecnologia) através do curso de "Profissão engenheiro front-end", amo tecnologia e venho buscando conhecimento diário , estou disposto a enfrentar quaisquer desafios como desenvolvedor web front-end.
 
 #
-- 🌲 I'm fixing my knowledge in: html, css, javascript and ReactJs.
-- 🤗 Highlight: teamwork helps people to grow and makes us reach deeper into our goals.
-- 📚 My focus is on front-end development with languages and librarie ReactJs, bootstrap, material-design-iconic.
+- 🌲 Estou fixando os meus conhecimentos em: Html, Css, Sass, Javascript e Reactjs.
+- 🤗 Highlight: fluente em metodologias ágeis, trabalho em equipe, boa comunicação.
+- 📚 Meu foco é no desenvolvimento front-end com linguagens e bibliotecas: reactjs, bootstrap, sass, material-design-iconic, fontawesome, jquery, gulp.
+- 📘 Outros interesses: Dart/Flutter.
 <br />
 
 <div align="center">
