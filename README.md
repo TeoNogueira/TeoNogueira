@@ -1,4 +1,4 @@
-## 👨‍💻 About me
+## 👨‍💻 Sobre mim
 
 Olá meu nome é Teófilo Nogueira atualmente estou cursando na EBAC (Escola Britânica de Artes Criativas e Tecnologia) através do curso de "Profissão engenheiro front-end", amo tecnologia e venho buscando conhecimento diário , estou disposto a enfrentar quaisquer desafios como desenvolvedor web front-end.
 
