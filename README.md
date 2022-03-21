@@ -18,7 +18,7 @@ Olá meu nome é Teófilo Nogueira atualmente estou cursando na EBAC (Escola Bri
 </div>
 
 [<div align="center">![Instagram](https://img.shields.io/badge/-Instagram-057a7b?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/teo_nogueira/) [![Instagram](https://img.shields.io/badge/-beginjscript-057a7b?style=for-the-badge&logo=Instagram&logoColor=77bcef)](https://www.instagram.com/beginjscript/)  [![Linkedin](https://img.shields.io/badge/-linkedin-057a7b?style=for-the-badge&logo=linkedin&logoColor=bffff9)</div>](https://www.linkedin.com/in/teonogueira/) [<div align="center" target="_blank">![Google Chrome](https://img.shields.io/badge/Current_Course_EBAC-7c25f8?style=for-the-badge&logo=GoogleChrome&logoColor=fff)](https://ebaconline.com.br/front-end-profession/)
-[<div align="center" target="_blank">![Google Chrome](https://img.shields.io/badge/Website-7c25f8?style=for-the-badge&logo=GoogleChrome&logoColor=fff)]{:target="_blank"}(http://teonogueira.42web.io/)
+[<div align="center" target="_blank">![Google Chrome](https://img.shields.io/badge/Website-7c25f8?style=for-the-badge&logo=GoogleChrome&logoColor=fff)](http://teonogueira.42web.io/)
 #
 <br /> 
   
