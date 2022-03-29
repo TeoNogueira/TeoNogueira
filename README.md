@@ -6,7 +6,7 @@ Olá meu nome é Teófilo Nogueira atualmente estou cursando na EBAC (Escola Bri
 - 🌲 Estou fixando os meus conhecimentos em: Html, Css, Sass, Javascript e Reactjs.
 - 🤗 Highlight: fluente em metodologias ágeis, trabalho em equipe, boa comunicação.
 - 📚 Meu foco é no desenvolvimento front-end com linguagens e bibliotecas: reactjs, bootstrap, sass, material-design-iconic, fontawesome.
-- 📘 Outros interesses: ELIXIR | Dart/Flutter.
+- 👾 Outros interesses: ELIXIR | Dart/Flutter.
 <br />
 
 <div align="center">
