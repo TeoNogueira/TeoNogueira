@@ -24,7 +24,7 @@ Olá meu nome é Teófilo Nogueira atualmente estou cursando na EBAC (Escola Bri
   
   ![Snake animation](https://github.com/TeoNogueira/TeoNogueira/blob/output/github-contribution-grid-snake.svg) 
   
-#
+
 <br /> 
 
   
