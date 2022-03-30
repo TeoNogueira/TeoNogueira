@@ -27,9 +27,20 @@ Olá meu nome é Teófilo Nogueira atualmente estou cursando na EBAC (Escola Bri
 #
 <br /> 
 
+  
+   <a><h2></h2></a>
+    <a href="https://github.com/TeoNogueira/TeoNogueira">
+        <img width="98%" height="120" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=TeoNogueira&theme=dracula&row=1&column=3&margin-w=15"/>
+    </a>    
+  
+  #
+<br /> 
+
 <div align='center'>
  
   <a href="#"><img src="https://views-badge.glitch.me/badge?page_id=TeoNogueira.visitor-badge"/></a>
+  
+  
 </div> 
 
 
