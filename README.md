@@ -13,11 +13,6 @@ Olá meu nome é Teófilo Nogueira atualmente estou cursando na EBAC (Escola Bri
  [<div align="right" target="_blank">![Google Chrome](https://img.shields.io/badge/Website-004183?style=for-the-badge&logo=GoogleChrome&logoColor=fff)</div>](http://teonogueira.42web.io/)
 
 
-  
-  
- 
-
-  
    
   
   #
@@ -25,7 +20,7 @@ Olá meu nome é Teófilo Nogueira atualmente estou cursando na EBAC (Escola Bri
 
 <div align="center">
   <a href="https://github.com/TeoNogueira">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=teonogueira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=teonogueira&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeoNogueira&layout=compact&langs_count=7&theme=react" />
 
 
