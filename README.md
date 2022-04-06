@@ -10,7 +10,7 @@ Olá meu nome é Teófilo Nogueira atualmente estou cursando na EBAC (Escola Bri
 - 👾 Outros interesses: ELIXIR | Dart/Flutter.
 
 
- [<div align="center" target="_blank">![Google Chrome](https://img.shields.io/badge/Website-004183?style=for-the-badge&logo=GoogleChrome&logoColor=fff)</div>](http://teonogueira.42web.io/)
+ [<div align="right" target="_blank">![Google Chrome](https://img.shields.io/badge/Website-004183?style=for-the-badge&logo=GoogleChrome&logoColor=fff)</div>](http://teonogueira.42web.io/)
  
   
   
