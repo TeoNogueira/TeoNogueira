@@ -10,10 +10,9 @@ Olá meu nome é Teófilo Nogueira atualmente estou cursando na EBAC (Escola Bri
 - 👾 Outros interesses: ELIXIR | Dart/Flutter.
 
 
- [<div align="right" target="_blank">![Google Chrome](https://img.shields.io/badge/Website-004183?style=for-the-badge&logo=GoogleChrome&logoColor=fff)</div>](http://teonogueira.42web.io/)
-
-
-   
+ [<div align="center" target="_blank">![Google Chrome](https://img.shields.io/badge/Website-004183?style=for-the-badge&logo=GoogleChrome&logoColor=fff)</div>](http://teonogueira.42web.io/)
+ 
+  
   
   #
 <br /> 
@@ -27,6 +26,10 @@ Olá meu nome é Teófilo Nogueira atualmente estou cursando na EBAC (Escola Bri
 </div>
 
 [<div align="center">![Instagram](https://img.shields.io/badge/-Instagram-285570?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/teo_nogueira/) [![Instagram](https://img.shields.io/badge/-beginjscript-285570?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/beginjscript/)  [![Linkedin](https://img.shields.io/badge/-linkedin-285570?style=for-the-badge&logo=linkedin&logoColor=fff)</div>](https://www.linkedin.com/in/teonogueira/) [<div align="center" target="_blank">![Google Chrome](https://img.shields.io/badge/Current_Course_EBAC-004183?style=for-the-badge&logo=GoogleChrome&logoColor=fff)](https://ebaconline.com.br/front-end-profession/)
+ 
+ 
+  [<div align="right" target="_blank">![Github](https://img.shields.io/badge/trend-008010?style=for-the-badge&logo=Github&logoColor=fff)</div>](https://github.com/TeoNogueira/TypeScript-2022)
+
 
 
 
