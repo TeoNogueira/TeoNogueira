@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mim <br />
 
-Hello my name is Teófilo Nogueira currently studying at EBAC through the front-end engineering course, I develop front-end web applications, I love technology and I have been looking for daily knowledge, I am willing to face any challenges as a developer.
+Hello my name is Teófilo Nogueira currently studying at EBAC through the front-end engineering course, i develop front-end web applications, i love technology and I have been looking for daily knowledge, i am willing to face any challenges as a developer.
 
 
 #
