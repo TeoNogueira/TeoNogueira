@@ -4,7 +4,7 @@ Hello my name is Teófilo Nogueira currently studying at EBAC through the front-
 
 
 #
-- 🌲 I'm fixing my knowledge in: html, css, javascript and ReactJs.
+- 🌲 Html, css, javascript and ReactJs.
 - 🤗 Highlight: teamwork helps people to grow and makes us reach deeper into our goals.
 - 📚 My focus is on front-end development with languages and libraries ReactJs, typescript, bootstrap, material-design-iconic.
 - 👾 Other interests: RUST | ELIXIR | Dart/Flutter.
