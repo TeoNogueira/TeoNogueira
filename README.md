@@ -1,3 +1,6 @@
+![capa git](https://github.com/TeoNogueira/TeoNogueira/blob/main/.github/workflows/developer_teo_nogueira.gif)
+
+
 ## 👨‍💻 About me <br />
 
 Hello my name is Teófilo Nogueira currently studying at EBAC through the front-end engineering course, i develop front-end web applications, i love technology and I have been looking for daily knowledge, i am willing to face any challenges as a developer.
