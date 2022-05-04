@@ -1,4 +1,4 @@
-![capa git](https://github.com/TeoNogueira/TeoNogueira/blob/main/.github/workflows/developer_teo.gif)
+![MasterHead](https://github.com/TeoNogueira/TeoNogueira/blob/main/.github/workflows/developer_teo.gif)
 
 
 ## 👨‍💻 About me <br />
