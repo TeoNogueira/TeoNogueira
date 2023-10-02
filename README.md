@@ -1,47 +1,49 @@
 ![MasterHead](https://github.com/TeoNogueira/TeoNogueira/blob/main/.github/workflows/developer_teo.gif)
 
-
 ## 👨‍💻 About me <br />
 
-Hello my name is Teófilo Nogueira currently studying at EBAC through the front-end engineering course, i develop front-end web applications, i love technology and I have been looking for daily knowledge, i am willing to face any challenges as a developer.
+Hello, my name is Teófilo Nogueira. I am currently studying at EBAC through the front-end engineering course. I develop front-end web applications, and I love technology. I have been seeking daily knowledge, and I am willing to face any challenges as a developer.
 
-
-#
-- 🌲 Html, css, javascript and reactjs, adobexd, photoshop.
-- 🤗 Highlight: teamwork helps people to grow and makes us reach deeper into our goals.
-- 📚 My focus is on front-end development with languages and libraries reactjs, typescript, bootstrap, material-design-iconic.
+- 🌲 HTML, CSS, JavaScript, and React.js
+- 🎨 Adobe XD, Photoshop
+- 🤗 Highlight: Teamwork helps people to grow and makes us reach deeper into our goals.
+- 📚 My focus is on front-end development with languages and libraries: React.js, TypeScript, Bootstrap, Material Design Iconic.
 - 👾 Other interests: RUST | ELIXIR | Dart/Flutter.
-
-
- [<div align="right" target="_blank">![Google Chrome](https://img.shields.io/badge/-website-004183?style=for-the-badge&logo=GoogleChrome&logoColor=fff)](https://teonogueira.vercel.app/)</div>
- 
-  
-  
-  
-<br /> 
 
 <div align="center">
   <a href="https://github.com/TeoNogueira">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=teonogueira&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeoNogueira&layout=compact&langs_count=7&theme=react" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=TeoNogueira&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
+    <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeoNogueira&layout=compact&langs_count=7&theme=react" />
+  </a>
+</div>
+<br/>
+<p align="center">
+  <a href="https://www.instagram.com/teo_nogueira/">
+    <img src="https://img.shields.io/badge/-Instagram-285570?style=for-the-badge&logo=Instagram&logoColor=fff" alt="Instagram">
+  </a>
+  <a href="https://www.instagram.com/beginjscript/">
+    <img src="https://img.shields.io/badge/-BeginJavaScript-285570?style=for-the-badge&logo=Instagram&logoColor=fff" alt="BeginJavaScript">
+  </a>
+  <a href="https://www.linkedin.com/in/teonogueira/">
+    <img src="https://img.shields.io/badge/-LinkedIn-285570?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn">
+  </a>
+   <a href="https://ebaconline.com.br/front-end-profession/">
+    <img src="https://img.shields.io/badge/-EBAC%20Online-004183?style=for-the-badge&logo=GoogleChrome&logoColor=fff" alt="EBAC Online">
+  </a>
+</p>
 
+<p align="center">
 
+</p>
+
+<div style="text-align: right;">
+  [![GitHub](https://img.shields.io/badge/Trend-008010?style=for-the-badge&logo=Github&logoColor=fff)](https://github.com/TeoNogueira/TypeScript-2022)
 </div>
 
-[<div align="center"> ![Instagram](https://img.shields.io/badge/-instagram-285570?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/teo_nogueira/) 
- [![Instagram](https://img.shields.io/badge/-beginjscript-285570?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/beginjscript/)
- [![Linkedin](https://img.shields.io/badge/-linkedin-285570?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/teonogueira/)[<div align="center" target="_blank">
- ![Google Chrome](https://img.shields.io/badge/-current_course_ebac-004183?style=for-the-badge&logo=GoogleChrome&logoColor=fff)](https://ebaconline.com.br/front-end-profession/)
- 
- 
-  [<div align="right" target="_blank"> ![Github](https://img.shields.io/badge/trend-008010?style=for-the-badge&logo=Github&logoColor=fff)](https://github.com/TeoNogueira/TypeScript-2022)</div>
+<br/>
+Agora, os links estão centralizados e as badges devem funcionar corretamente. Certifique-se de manter essa estrutura para manter os links e as badges alinhadas ao centro no seu README.
 
 
 
 
 
-
-
-
-
- 
