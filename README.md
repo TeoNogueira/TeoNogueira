@@ -9,7 +9,8 @@ Hello, my name is Teófilo Nogueira. I am currently studying at EBAC through the
 - 🤗 Highlight: Teamwork helps people to grow and makes us reach deeper into our goals.
 - 📚 My focus is on front-end development with languages and libraries: React.js, TypeScript, Bootstrap, Material Design Iconic.
 - 👾 Other interests: RUST | ELIXIR | Dart/Flutter.
-
+<br/>
+<br/>
 <div align="center">
   <a href="https://github.com/TeoNogueira">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=TeoNogueira&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
@@ -17,6 +18,12 @@ Hello, my name is Teófilo Nogueira. I am currently studying at EBAC through the
   </a>
 </div>
 <br/>
+<br/>
+<p align="center">
+  <a href="https://teonogueira.vercel.app">
+    <img src="https://img.shields.io/badge/AboutMe-008010?style=for-the-badge&logo=GoogleChrome&logoColor=fff" alt="GoogleChrome">
+  </a>
+</p>
 <p align="center">
   <a href="https://www.instagram.com/teo_nogueira/">
     <img src="https://img.shields.io/badge/-Instagram-285570?style=for-the-badge&logo=Instagram&logoColor=fff" alt="Instagram">
@@ -32,17 +39,9 @@ Hello, my name is Teófilo Nogueira. I am currently studying at EBAC through the
   </a>
 </p>
 
-<p align="center">
 
-</p>
-
-<div style="text-align: right;">
-  [![GitHub](https://img.shields.io/badge/Trend-008010?style=for-the-badge&logo=Github&logoColor=fff)](https://github.com/TeoNogueira/TypeScript-2022)
-</div>
 
 <br/>
-Agora, os links estão centralizados e as badges devem funcionar corretamente. Certifique-se de manter essa estrutura para manter os links e as badges alinhadas ao centro no seu README.
-
 
 
 
