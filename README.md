@@ -13,11 +13,11 @@ Hello my name is Teófilo Nogueira currently studying at EBAC through the front-
 - 👾 Other interests: RUST | ELIXIR | Dart/Flutter.
 
 
- [<div align="right" target="_blank">![Google Chrome](https://img.shields.io/badge/Website-004183?style=for-the-badge&logo=GoogleChrome&logoColor=fff)]</div>](https://teonogueira.42web.io/)
+ [<div align="right" target="_blank">![Google Chrome](https://img.shields.io/badge/-website-004183?style=for-the-badge&logo=GoogleChrome&logoColor=fff)](https://teonogueira.vercel.app/)</div>
  
   
   
-  #
+  
 <br /> 
 
 <div align="center">
