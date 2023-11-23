@@ -28,9 +28,6 @@ Hello, my name is Teófilo Nogueira. I am currently studying at EBAC through the
   <a href="https://www.instagram.com/teo_nogueira/">
     <img src="https://img.shields.io/badge/-Instagram-285570?style=for-the-badge&logo=Instagram&logoColor=fff" alt="Instagram">
   </a>
-  <a href="https://www.instagram.com/beginjscript/">
-    <img src="https://img.shields.io/badge/-BeginJavaScript-285570?style=for-the-badge&logo=Instagram&logoColor=fff" alt="BeginJavaScript">
-  </a>
   <a href="https://www.linkedin.com/in/teofilo-nogueira/">
     <img src="https://img.shields.io/badge/-LinkedIn-285570?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn">
   </a>
