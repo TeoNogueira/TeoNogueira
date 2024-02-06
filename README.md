@@ -8,7 +8,7 @@ Hello, my name is Teófilo Nogueira. I am currently studying at EBAC through the
 - 🎨 Adobe XD, Photoshop
 - 🤗 Highlight: Teamwork helps people to grow and makes us reach deeper into our goals.
 - 📚 My focus is on front-end development with languages and libraries: React.js, TypeScript, Bootstrap, Material Design Iconic.
-- 👾 Other interests: RUST | ELIXIR | Dart/Flutter.
+- 👾 Other interests: C# | Dart/Flutter.
 <br/>
 <br/>
 <div align="center">
