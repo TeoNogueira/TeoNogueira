@@ -4,10 +4,10 @@
 
 Hello, my name is Teófilo Nogueira. I am currently studying at EBAC through the front-end engineering course. I develop front-end web applications, and I love technology. I have been seeking daily knowledge, and I am willing to face any challenges as a developer.
 
-- 🌲 HTML, CSS, JavaScript, and React.js, Sass, Styled-Components, Redux
+- 🌲 HTML, CSS, JavaScript, and React.js
 - 🎨 Adobe XD, Photoshop, Figma
 - 🤗 Highlight: Teamwork helps people to grow and makes us reach deeper into our goals.
-- 📚 My focus is on front-end development with languages and libraries: React.js, TypeScript, Bootstrap, Material Design Iconic.
+- 📚 My focus is on front-end development with languages and libraries: React.js, TypeScript, Bootstrap,  Sass, Styled-Components, Redux.
 - 👾 Other interests: C# | Dart/Flutter.
 <br/>
 <br/>
