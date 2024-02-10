@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About me <br />
 
-Hello, my name is Teófilo Nogueira. I am currently studying at EBAC through the front-end engineering course. I develop front-end web applications, and I love technology. I have been seeking daily knowledge, and I am willing to face any challenges as a developer.
+Hello, my name is Teófilo Nogueira. I am currently studying at UNIFATECIE through the Systems Development Analyst. I develop front-end web applications, and I love technology. I have been seeking daily knowledge, and I am willing to face any challenges as a developer.
 
 - 🌲 HTML, CSS, JavaScript, and React.js
 - 🎨 Adobe XD, Photoshop, Figma
