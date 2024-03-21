@@ -20,6 +20,9 @@ Hello, my name is Teófilo Nogueira. I am currently studying at UNIFATECIE throu
 <br/>
 <br/>
 <p align="center">
+    <a href="https://static.lms.ebaconline.com.br/certs/course/f753c217-1946-4c1c-bcbe-58011d1a8f52/1400xAUTO.png">
+    <img src="https://img.shields.io/badge/-EBAC%20CERTIFIED-004583?style=for-the-badge&logo=GoogleChrome&logoColor=fff" alt="EBAC Certified">
+  </a>
   <a href="https://teonogueira.vercel.app">
     <img src="https://img.shields.io/badge/AboutMe-008010?style=for-the-badge&logo=GoogleChrome&logoColor=fff" alt="GoogleChrome">
   </a>
